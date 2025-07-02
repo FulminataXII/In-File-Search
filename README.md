@@ -2,7 +2,7 @@
 In File Search is a Windows application that allows users to search a given string in all the text-based files in a given directory and view the results per match and per file. 
 
 This is made using Flutter and my own search algorithm (mostly KMP with some custom tweaks to allow more versatility like ignoring punctuations [see [How To Use](#how-to-use)]) written in C++ and built into a dll.
-Flutter-dll integration is thanks to ffi package (https://pub.dev/packages/ffi). 
+Flutter-dll integration is made possible thanks to ffi package (https://pub.dev/packages/ffi). 
 
 ## How To Use
 
@@ -27,7 +27,7 @@ However, I don't think it allows you to ignore any punctuations (as of ... see t
 ## Some Comments
 Thanks for your attention to my first ever repo!  <br/>
 
-If you had the patience to look through at least some of my code and to comment any better implentation or about any issues in my code, Thank You! I'd love to learn somme good stuff from you. <br/>
+If you had the patience to look through at least some of my code and to comment any better implentation or about any issues in my code, Thank You! I'd love to learn some good stuff from you. <br/>
 
 I know there are probably a lot of things that you find which can be done better in this project. Taking your time to point out any one of them is also greatly appreciated. I will be updating the code, finetuning the features and resolving any bugs as per my convenience atleast till the foreseeable future or till I develop this to the extent I don't find any challenge or interest in going further, whichever is earlier. <br/>
 
