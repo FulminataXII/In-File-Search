@@ -22,7 +22,7 @@ First download the contents in 'release' folder into a directory on your Windows
 
 ## Important Info
 I've made this repo for academic purposes. Hence if you found this while searching for this or other like software, I'd suggest you to take a look at the excellent, InFile Seeker by Xtreme Lab (https://www.xtreme-lab.net/en/infiles.htm). It allows you to include or exclude custom extensions in your search and is also NOT SLOWER than mine ( yet ;) ).  
-However, I don't think it allows you to ignore any punctuations (as of ... see the last modified date). 
+However, I don't think it allows you to ignore any punctuations (as of ... see the last commit date). 
 
 ## Some Comments
 Thanks for your attention to my first ever repo!  <br/>
