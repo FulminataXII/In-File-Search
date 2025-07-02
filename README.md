@@ -1,10 +1,12 @@
 # In-File-Search
-In File Search is a desktop application that allows users to search a given string in all the text-based files in a given directory and view the results per match and per file. 
+In File Search is a Windows application that allows users to search a given string in all the text-based files in a given directory and view the results per match and per file. 
 
 This is made using Flutter and my own search algorithm (mostly KMP with some custom tweaks to allow more versatility like ignoring punctuations [see [How To Use](#how-to-use)]) written in C++ and built into a dll.
 Flutter-dll integration is thanks to ffi package (https://pub.dev/packages/ffi). 
 
 ## How To Use
+
+First download the contents in 'release' folder into a directory on your Windows machine (if you downloaded them as a zip file, unzip it). Run 'search.exe' and follow the below steps: 
 
 - Browse the directory to search in using the 'Browse' button or directly enter the path in 'Folder path' text field.  
 - Enter the string you want to search in Keyword text field.  
